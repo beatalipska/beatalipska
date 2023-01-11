@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beat(k)a</h1>
 <h3 align="center">A passionate software engineer and soft skills preacher 😇 from Poland, living in UK</h3>
 
-- 🔭 I’m currently working on **Paddle.com projects**
+- 🔭 I’m currently working on **Syntropynet.com projects**
 
 - 🌱 I’m currently learning **clean architecture**
 
